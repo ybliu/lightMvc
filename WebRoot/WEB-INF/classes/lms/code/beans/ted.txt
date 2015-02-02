@@ -1,0 +1,3 @@
+lms.code.beans
+是日志管理系统的model
+分为oracle和mysql两类
